@@ -11,10 +11,11 @@ body {
 .galeria {
     text-align: center;
     font-family: sans-serif;
+
 }
 li {
     text-align: left;
-    margin-left: 4%;
+    margin-left: 6%;
     list-style: none;
 
 }
