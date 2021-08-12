@@ -27,10 +27,11 @@ body {
 }
 
 img {
-  
+
     width: 100%;
+    position: relative;
+    bottom: 70px;
     
-  
 }
 
 /*.foto2 {
