@@ -102,6 +102,7 @@ iframe {
 .news {
     background-color: rgb(77, 77, 66);
     color:rgb(230, 236, 172);
+    line-height: 18px;
     padding: 6px;
     margin: 0px 0px;
     border-bottom-left-radius: 10px;
