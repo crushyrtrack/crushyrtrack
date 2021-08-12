@@ -59,6 +59,7 @@ img {
       list-style: none;
 }
 .header h1 {    
+    background-color: rgba(0, 0, 0, 0.6);
     border:solid 3px;
     border-radius: 5px;
     position: fixed;
