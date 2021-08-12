@@ -59,11 +59,11 @@ img {
       list-style: none;
 }
 .header h1 {    
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.7);
     border:solid 3px;
     border-radius: 5px;
     position: fixed;
-    top: 26px;
+    top: 28px;
     left: 28px;
     font-family: sans-serif;
     text-align: center;
@@ -91,6 +91,21 @@ iframe {
     margin: 10px;
     line-height: 1;
     border-radius: 10px;
+}
+
+.actual {
+    background-color: rgb(230, 236, 172);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.news {
+    background-color: rgb(77, 77, 66);
+    color:rgb(230, 236, 172);
+    padding: 6px;
+    margin: 0px 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 .caja1 { 
