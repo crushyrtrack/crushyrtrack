@@ -79,6 +79,11 @@ img {
 
 }
 
+iframe {
+    border-radius: 10px;
+    border: solid 2px #898b01;
+}
+
 .caja0 { 
     background-color: rgb(192, 189, 89);
     padding: 5px;
