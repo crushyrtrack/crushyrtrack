@@ -59,7 +59,8 @@ img {
       list-style: none;
 }
 .header h1 {    
-    
+    border:solid 3px;
+    border-radius: 5px;
     position: fixed;
     top: 26px;
     left: 28px;
@@ -76,6 +77,14 @@ img {
     padding: 1px 0px;
     font-family: sans-serif;
 
+}
+
+.caja0 { 
+    background-color: rgb(192, 189, 89);
+    padding: 5px;
+    margin: 10px;
+    line-height: 1;
+    border-radius: 10px;
 }
 
 .caja1 { 
