@@ -11,8 +11,14 @@ body {
 .galeria {
     text-align: center;
     font-family: sans-serif;
+    margin-top: 20px;
 
 }
+
+h2 {
+    margin: 0px;
+}
+
 li {
     text-align: left;
     margin-left: 6%;
@@ -22,6 +28,7 @@ li {
  
 .gallery {
    padding: 5px;
+   margin: 0px;
 }
 .gallery li {
     margin: 10px; 
@@ -29,6 +36,8 @@ li {
     text-decoration: none;
     
 }
+
+
 
 img {
     display: block;
